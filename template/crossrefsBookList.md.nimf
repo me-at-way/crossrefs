@@ -1,0 +1,16 @@
+#? stdtmpl(subsChar = '$', metaChar = '@')
+@ proc crossrefsBookListMd(toc: string): string =
+<div align="center">
+  <h1 id="readme">Cross references</h1>
+</div>
+
+Cross references book list
+
+---
+
+$toc
+
+---
+
+**Visits:**
+![](https://profile-counter.glitch.me/visitCounter_crossrefsBookList/count.svg)

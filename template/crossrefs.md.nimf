@@ -1,0 +1,17 @@
+#? stdtmpl(subsChar = '$', metaChar = '@')
+@proc crossrefsMd(bookName, crossrefs: string, bookCode, chapter: int): string =
+<div align="center">
+
+# Cross references for **$bookName $chapter**
+</div>
+
+Cross references list for chapter **$chapter** of **$bookName** book
+
+---
+
+$crossrefs
+
+---
+
+**Visits:**
+![](https://profile-counter.glitch.me/visitCounter_crossrefs$bookCode/count.svg)
