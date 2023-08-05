@@ -26,7 +26,7 @@ Cross references book list
 ## [Job](md/Job#readme)
 ## [Psalms](md/Psa#readme)
 ## [Proverbs](md/Pro#readme)
-## [Sirach](md/Sir#readme)
+## [Ecclesiastes](md/Ecc#readme)
 ## [Song Of Solomon](md/Sos#readme)
 ## [Isaiah](md/Isa#readme)
 ## [Jeremiah](md/Jer#readme)

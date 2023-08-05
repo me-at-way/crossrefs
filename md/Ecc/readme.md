@@ -1,8 +1,8 @@
 <div align="center">
-  <h1 id="readme">Cross references for <b>Sirach</b></h1>
+  <h1 id="readme">Cross references for <b>Ecclesiastes</b></h1>
 </div>
 
-Cross references list for **Sirach** book
+Cross references list for **Ecclesiastes** book
 
 ---
 
@@ -23,4 +23,4 @@ Cross references list for **Sirach** book
 ---
 
 **Visits:**
-![](https://profile-counter.glitch.me/visitCounter_crossrefsChapterList38/count.svg)
+![](https://profile-counter.glitch.me/visitCounter_crossrefsChapterList42/count.svg)
